@@ -1,0 +1,61 @@
+export const PEOPLE_MOCK=[{
+  "id": 1,
+  "name": "Engelbert",
+  "lastName": "Rattenbury",
+  "cpf": "178.274.479-23",
+  "email": "erattenbury0@hao123.com"
+}, {
+  "id": 2,
+  "name": "Guido",
+  "lastName": "Lawrenceson",
+  "cpf": "927.533.360-61",
+  "email": "glawrenceson1@usnews.com"
+}, {
+  "id": 3,
+  "name": "Osmund",
+  "lastName": "Baroche",
+  "cpf": "716.620.578-96",
+  "email": "obaroche2@bloglovin.com"
+}, {
+  "id": 4,
+  "name": "Saudra",
+  "lastName": "Fonte",
+  "cpf": "279.009.050-32",
+  "email": "sfonte3@typepad.com"
+}, {
+  "id": 5,
+  "name": "Meade",
+  "lastName": "Duesberry",
+  "cpf": "826.824.921-03",
+  "email": "mduesberry4@state.tx.us"
+}, {
+  "id": 6,
+  "name": "Dru",
+  "lastName": "Vicar",
+  "cpf": "940.652.946-09",
+  "email": "dvicar5@jimdo.com"
+}, {
+  "id": 7,
+  "name": "Baxy",
+  "lastName": "McCuffie",
+  "cpf": "146.259.924-21",
+  "email": "bmccuffie6@google.fr"
+}, {
+  "id": 8,
+  "name": "Zaria",
+  "lastName": "Filler",
+  "cpf": "795.067.198-19",
+  "email": "zfiller7@hostgator.com"
+}, {
+  "id": 9,
+  "name": "Ola",
+  "lastName": "Applegate",
+  "cpf": "211.949.187-05",
+  "email": "oapplegate8@webs.com"
+}, {
+  "id": 10,
+  "name": "Lu",
+  "lastName": "Garlinge",
+  "cpf": "476.651.645-17",
+  "email": "lgarlinge9@globo.com"
+}]
